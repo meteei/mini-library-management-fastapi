@@ -66,3 +66,4 @@ def test_save_and_load_books(empty_library):
     new_lib = Library(filename=TEST_FILE)
     assert len(new_lib.books) == 1
     assert new_lib.books[0].isbn == "111"
+# Library testleri - Temel işlevsellik testleri

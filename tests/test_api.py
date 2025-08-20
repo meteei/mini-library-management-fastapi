@@ -53,3 +53,4 @@ def test_delete_book_then_empty(client):
 def test_delete_missing_returns_404(client):
     r = client.delete("/books/00000")
     assert r.status_code == 404
+# API testleri - Mini Kütüphane Yönetim Sistemi
