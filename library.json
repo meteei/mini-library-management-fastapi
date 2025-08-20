@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Animal Farm",
+    "author": "George Orwell",
+    "isbn": "67890"
+  },
+  {
+    "title": "Everything I Never Told You",
+    "author": "Bilinmiyor",
+    "isbn": "9780143127550"
+  },
+  {
+    "title": "The Most Human Human",
+    "author": "Brian Christian",
+    "isbn": "9780307476708"
+  },
+  {
+    "title": "Harry Potter and the Chamber of Secrets",
+    "author": "Bilinmiyor",
+    "isbn": "9780439064873"
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "isbn": "9780061120084"
+  },
+  {
+    "title": "Fahrenheit 451",
+    "author": "Bilinmiyor",
+    "isbn": "9781451673319"
+  },
+  {
+    "title": "A Brief History of Time",
+    "author": "Bilinmiyor",
+    "isbn": "9780553380163"
+  }
+]
