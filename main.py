@@ -56,3 +56,4 @@ if __name__ == "__main__":
     from api import app
     main()
 
+# Terminal arayüzü - Kütüphane Yönetim Sistemi
