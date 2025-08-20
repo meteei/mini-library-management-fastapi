@@ -70,3 +70,4 @@ def delete_book(isbn: str):
         raise HTTPException(status_code=404, detail=str(e))
     
 
+# FastAPI ile REST API endpoints
